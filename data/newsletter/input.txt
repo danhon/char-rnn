@@ -1,3 +1,216 @@
+s2e21: Hello babies; Post-Apocalyptic Duolingo; Recreational Capitalism
+
+by danhon
+0.0 Sitrep 
+
+I don't know what to put here, so I had my slug puppy neural net shadow self prepare a few words:
+There is the very least something like The Next Generation Between America - I had a weak signal with the hard written about what the tweet is that it's not a connections of a business planet to do a business model to be a company that we have to be the one of them. And then we should be able to insurate and speed out of what it is that they don't have to do with other things. 
+
+- Dan Hon (simple long short term model neural network, 400 neuron, 3 layer, Turing negative, unregistered) version: lm_lstm_epoch19.63_1.3194.t7
+1.0 Hello babies
+
+There are a number of things jostling around in my head that I think are starting to come to some sort of point. They are:
+
+ - Rob Rhinehart's blog post, How I Gave Up Alternating Current[0], and its follow-up, The Appeal of Outsourcing[1]
+ - Kurt Vonnegut's quote (those of you who'll have recognised the "Hello babies" opener). You know the one:
+Hello, babies. Welcome to Earth. It's hot in the summer and cold in the winter. It's round and wet and crowded. At the outside, babies, you've got about a hundred years here. There's only one rule that I know of, babies — "God damn it, you've got to be kind."[2]
+​ - everything that I've ever written before about The Californian Ideology (see a whole bunch of newsletter episodes in my archive[3], which archive isn't up-to-date anyway, so there's probably a lot more)
+ - What the New York Times said about Amazon[4] and the response[5] and Bezos' response[6]
+
+The facetious thing, of course, is to just say: why can't we just be nice. Why can't we just be *kind*. The position that's taken by someone like Mark Suster, though[5], is that we can't have the things that we want and be kind at the same time. It's just impossible. Whenever we want anything, we don't really think about the consequences, we just like the end results. The ends justify the means, I suppose. Suster says this:
+ 
+I think it’s the most successful startup of our era. It’s the most ambitious and has had the most impact on our daily lives basically creating the modern category of retailing. They push the boundaries on eReaders on video streaming on web hosting on logistics and a variety of other fronts. How could you expect this to occur in a laissez-faire culture? How many of you would be fine saying “sure, just get my my stuff some time next week.” No. You want it G-ddamn now and you demand it now and you demand the perfection out of Amazon and in a very Nicholsonesque way you want people with guns guarding walls and you don’t want to know about it behind the scenes.[5]
+I'll give him this: Amazon pushed the boundaries on eReaders, essentially creating the category. And yes, they did what no-one else did and commoditised compute services on the internet, pretty much helping to kickstart a new revolution in software-based companies and businesses. And they also are really, really, really ruthless about letting you buy whatever you want and have it turn up to wherever you want it, really quickly. I was going to say that they were going to also be really *cheap* about it, but it turns out Amazon aren't always the cheapest, and not by a long shot. No: you go to Amazon to shop now, and they're convenient. So yes, in the same "Nicholsonesque" way that people don't like to look under the cover and see the true horror of what's happening, we don't *really* like being confronted with the types of culture that currently deliver, well, Amazon and Apple and Wal-Mart rates of return. That's why we western, educated, industrialized, rich and democratic people wring our hands when we hear about how our shiny phones are hand-assembled in China by people who, in some respects, are quite happy to get the work (as opposed to no work) and also wring our hands when we find out that *someone you know* might be working in an Amazon Distribution Center and only having thirty seconds every six years to sit down. 
+
+But this supposes that the *only* way to deliver Amazon-ish returns is to have such a culture. I feel like Suster is conflating hard work with, well, a masochistic and poisonous environment. Not one to simply throw out the correlation/causation thing all over again, but it's not like we have loads of datapoints, right? And where does this go, exactly? Is the end-run of what Suster's suggesting that hey, it turns out that we want our stuff right now, that means that we tolerate a shitty environment (if, indeed, it is shitty - lots of people say it is, other people - who on first glance look like they might be more privileged people, I have to say) for workers? 
+And so then we come to Rob Rhine. Rhine has done the maths, and the maths say that he should act a certain way. Fair enough, says I, but it would be good for him to *show his working* because that's what we rationalists do these days, don't just take studies and assertions on faith, we go and we do replication studies to make sure that what's being asserted isn't just noise in the jitter of packets across fiber. 
+
+Rhine wants to be efficient. He doesn't want to waste. The result of this is that he wants to see if he can survive without the luxury of alternating current, which, as some people were quick to admit, is how a lot of the world survives at the moment. Or, at least, the part of the world that's otherwise known as the bottom of the pyramid certainly doesn't have access to reliable and consistent electricity. 
+
+I have to admit that this is a *bit* like a tone argument, because Rhine says things like "I don't see why everyone is so excited about Tesla charging $0.43 / Wh for the Powerwall" (Tesla's new and apparently revolutionary piece of consumer hardware that is being spoken of as a sort of iPod-ish moment for home/personal power storage) is because most people don't do the math and most people don't go out and buy a $150 solar panel from Amazon and hook it up to a cheap lead acid battery. The point, though, is that Rhine makes it sound like the people who *are* excited by it are stupid, and they're probably not. They probably have other things on their minds, which is absolutely fine, because our society allows for a) some people to be like Rhine and b) some people to be not-like Rhine.
+
+Now, the thing about Rhine is that he also happens to be the inventory/CEO of Soylent, a food-replacement startup that's being touted as a bit like the Star Trek era food pill. Note that Rhine doesn't say that he doesn't like *eating*. He also doesn't say that he doesn't like *food*. He just says that he doesn't like *cooking*. He "goes out to eat when he craves company or flavour". Rhine also - personally - doesn't like and hates going grocery shopping, calling it a "multisensory living nightmare" which is something that I think a lot of people can sympathise with, and he doesn't even have to go grocery shopping with a toddler. 
+
+But then, Rhine says things like "I buy my staple food online like a civilized person." and it's hard to not hear him sounding, bluntly, like a dick, because there are lots of people out there who think they're civilized and they don't buy their staple food online and now Rhine has called them uncivilized and if it wasn't war already, it's war now and the internet will have its comments, oh yes it will. 
+
+Rhine take this approach to optimisation further: he switched from beer to red wine (not sure what the utility function was here - presumably taste and texture have nothing to do with it, but "social interaction" must be a factor otherwise I expect Rhine would just be straight up injecting pure alcohol into his bloodstream or snorting it or eyeballing it or whatever, but maybe his friends don't want to do that with him. I think the point is this: Rhine is pretty happy with what he's got. It's just that, well, there's something judgey about it which means that there's a bunch of reacting to the *how* he's saying it, versus the *what* he's saying. He's right in that there's a whole tonne of inertia built up in how we do a lot of things that we do, like, well, eating and drinking. 
+
+Rhine says things like this:
+ 
+At some point we are going to have to admit that we suck at cooking, and we suck at driving. Let’s automate them already so we can focus on art, and science, and exploration. Food can be art, and driving can be exploration, but it’s mostly manufacturing and commuting. I don’t miss them.
+which necessarily requires you to agree at least on *what the point of cooking is* and *what the point of driving is*. I think it's clearer that the point of driving is mostly totally mundane and not necessarily pleasurable, especially in a country that's as car-biased as America. So yeah, I take Rhine's point on driving. The cooking bit, though? Not so much. Not entirely. And yes, it's nicer to just have meals delivered to you. That totally works. But there's a world of difference between sounding like you're saying people who don't have their entire food sources delivered by mail are uncivilized and that the ones who are are eating a singular dietary replacement. I mean, I like getting delivery food. I wish I could get it *most of the time*. I do not, however, necessarily want to replace all of that food with Soylent.
+
+There are some parts where Rhine's manifesto kind of falls loose: he buys clothing from China direct, custom made, and then says that shipping really sucks. (Yes, it does). But he doesn't say how much he pays for it, which is a bit weird because everywhere else he's talking about how much money he's saving, or how much energy it takes. 
+
+The lede was buried, I think. Rhine's pointing out that he can have a lifestyle that's if not comfortable, then an actual improvement, for less money, all down to the fact that he can harvest solar energy directly and store it locally and massively reduce his energy needs. The supply side is great and one that counts for everyone: if only there were a way to massively incentivise people to install their own solar power and capture. 
+
+It's this kind of thing that makes Google's Project Sunroof[7] look so good: I can't even figure out what Google's angle is here other than: hey, we've got all the data, at least, most of it, and the bits we don't have we can probably get, and anyway, no-one else is going to do this. Also, more energy is needed, in more places, to do the job of Google (whatever that now Alphabetised job may be). I mean, it's not like Google's going to make a tonne of money on the affiliate link fees by referring homeowners to solar cell installers and vendors, right?
+
+But anyway, I got off the point. There's all of this swirling around in my head and then this whole thing from Vox about effective altriusm[8] (which, I have to admit, I've only been watching for the last six months) where a bunch of really smart people are trying really hard to figure out the best ways to achieve the best good in the world by using system 2 thinking instead of system 1 thinking where system 1 thinking is seeing an ad for a kitten shelter and shouting TAKE ALL MY MONEY and system 2 is realising that maybe de-worming for a couple of cents is a REALLY BIG DEAL apart from recently there was the whole potential problem with the replication of the de-worming study. Anyway, so effective altruism might have (in some areas) been colonised by the people who are (legitimately) worried about a non-negligible outside context problem attack of some sort of artificial intelligence that we don't know how to deal with, and some other people are a bit upset about that characterisation[9, 10] and are pointing out, rationally and in a system 2 kind of way, the system 1 kind of holes in the argument presented by Matthews in Vox. 
+
+And the point is this: just Vonnegut's point.
+
+"There's only one rule that I know of, babies — "God damn it, you've got to be kind""
+
+[0] How I Gave Up Alternating Current | Mostly Harmless
+[1] The Appeal of Outsourcing | Mostly Harmless
+[2] Kurt Vonnegut - Wikiquote
+[3] Californian Ideology : Things That Have Caught My Attention
+[4] Inside Amazon: Wrestling Big Ideas in a Bruising Workplace - The New York Times
+[5] What to Make of Amazon's Work Practices? | Bothsides of the Table
+[6] Jeff Bezos and Amazon Employees Join Debate Over Its Culture - The New York Times
+[7] Project Sunroof | About
+[8] I spent a weekend at Google talking with nerds about charity. I came away … worried. - Vox
+[9] Stop Adding Zeroes | Slate Star Codex
+[10] Figure/Ground Illusions | Slate Star Codex
+
+2.0 Post-Apocalyptic Duolino
+
+"Do you want attribution by name, or legal relationship?"
+"Does it matter?"
+"Well, it matters to you..."
+"I don't care, sweetheart"
+
+Okay, so for clarity's sake, *my wife* just observed that whilst playing (er, learning a language using) Duolingo that all the references are still about things like newspapers and that she hadn't seen any mention of things like tablets or iPads yet. I have yet to ask her if the references include things like being able to write a letter to a youth hostel saying that you and five more friends are coming to stay in La Rochelle on the 8th of August for four nights and that you will be happy to bring your own bedding, or if the steam engine railway will be working during those days or if the hostel is capable of receiving telegrams from your mama and papa. 
+
+(I'm now reliably informed that Duolingo also goes on about writing letters, so let's just say that if most language teaching is like Duolingo - and Duolingo seems to be one of the better ones, then people are going to be super prepared to speak to each other when the apocalypse come and our iPhones and Androids don't work anymore)
+
+Seriously, how do you send a Snapchat in French, anyway? It's not like I need to know what the *word* for Snapchat is, but why are you teaching me how to write and talk about letters when most of the people I need to talk to are either using Slack or Twitter?
+
+For which: CONVERSATIONAL SPANISH FOR TWITTER should totally be a thing.
+
+3.0 Recreational Capitalism
+
+I honestly can't remember if I've already written about this one, but on the back of news that 40% of airbnb properties are now operated by hosts who own more than one property[0], there's a difference now between what feels like Business As Usual Capitalism (ie: concentration and centralisation of power and influence, but made easier because of the network and software and so on) and the Paul Mason style Post-Capitalism which is the airbnb that we *used* to have which was people with a spare room letting it out. Only, maybe, not even letting it out! Letting it out in exchange for other goods and services! (But no, we invented money, and money turns out to be useful for things, and then other people have money, and they have more, so they want more and so on and so on)
+
+I feel like the story that Uber and Airbnb *want* to tell, and the story that's attractive for them is that of recreational capitalism. That it's a hobby, you know? And not a business. It's not like I *need* to rent out by spare bedroom, but I like meeting new people, you know? It's just so fulfilling to be a host and to introduce people to my neighborhood! It's, like, really enriching, and I always learn things that I never knew before. It is totally not the fact that I have decided to invest in properties that I let out through airbnb instead of through a 401k and now I have a thriving sub-business alongside my day job of around 5 properties that I manage all around the country, reliant upon another class of on-demand service workers who clean them and deal with key queries all the time. Why, it almost feels like I'm a hotel company now, only without any of the liability or regulatory impositions! 
+
+Etsy, right? Etsy is totally more on the side of the recreational capitalism on the scale that has recreational capitalism on one end and all out software-based, network-aware, real-time, market-priced, location-aware efficient maximisation of utilisation of resources, controlled by a few powerful actors. On the one hand you have a cottage industry of bed and breakfasts. On the other hand, you just have The New Hiltons, Just Like The Old Hiltons, But Not Evenly Distributed. Take a Hilton and explode it over the country. Five hundred rooms, but all in different cities. Hell, the next step would be to include a Premium Hilton Overlay on top of a regular Airbnb and say hey, if you want the, I dunno, Fairmont Experience at this Airbnb then that'll be another $300/night. 
+
+But then there'll always be the little basket-weavers at the side, trying to get by, I guess. Actual people running airbnbs are the vendors on the street, hustling storefronts right alongside the glowing neon of new-LA. 
+
+[0] Networks and the Nature of the Firm — The WTF Economy — Medium
+
+--
+
+3,031 words tonight, more food for the neural net. 
+
+Best,
+
+Dan
+
+s2e20: Dreaming of writing; Just some notes
+
+by danhon
+0.0 Sitrep
+
+I spent the weekend looking at tractors, or, rather, chasing after my son who wanted to go look at tractors. I've seen a lot of tractors now, lots of old ones, a few new ones, and even some tank-chairs, which are like wheelchairs but with treads and a way for you to mount your rifle to the armrest so you can go out hunting and enjoy sports if you're a disabled veteran. I also spent the weekend wrestling with Amazon's AWS. But more on that...
+
+1.0 Deep Writing
+
+I have a late 2013 13in Retina MacBook Pro, which means that instead of a discrete graphics card (ie: a separate one, from a company like nVidia or AMD/ATI) it has one that's already on the mainboard, made by Intel. Traditionally, these integrated graphics cards haven't been any good or worth writing home about - all the progress and power in 3D acceleration has been in those discrete cards. But slowly, Intel's been getting better to the extent that most Macs now ship with an Intel built-in graphics processing unit (a GPU). The one in my laptop is an Intel Iris, the second generation of which Apple saw fit to put in a Retina-class 13in laptop. (The 15in and bigger laptops normally have discrete GPUs as well as built-in ones because you can fit more battery in a bigger laptop). 
+
+All this is to say that while the GPU in my laptop is good for, say, looking at webpages, it's not *great* at doing 3D graphics stuff. Incidentally, there was a time when "3D graphics stuff" meant things like computer games like Quake and more recently stuff like Call of Duty or Assassin's Creed, but nowadays the term's starting to get a bit confusing because we've got *actual virtual reality headware now*, and that headware *does* simulate 3D images and does so by rendering one image for your left eye and another one for your right eye so that the "3D graphics stuff" requirements are at least doubled. Anyway: one of the things that you need to know about all this 3D graphics stuff and the GPUs that do it is that 3D graphics is a long list of calculations on a bunch of numbers - matrix transformations and vectors. You take one bunch of numbers and then do the same thing to all of them. And then again. And again. Hopefully at least 30 times a second. It turns out that *that* kind of maths - vector maths or matrix maths - also happens to be the kind of stuff that neural networks do - or can do. Which is why nVidia, a company that started out helping people shoot things in games, is now the main provider of most of the processing power behind deep-learning and artificial intelligence efforts. 
+
+Fortunately, you don't need to go out and build or buy a computer with one of these nVidia GPUs in it. Amazon has got a bunch in their cloud that you can use, and they cost about $0.70 an hour to play with. So I spent most of the weekend trying to set up a computer in the cloud to dream about my newsletter instead of getting my laptop to dream about my newsletter because my laptop literally requires *the entire night* to dream, which is appropriate, I suppose, for sufficiently-complex-dreaming. 
+
+But anyway, just so you know: I completely failed. I'm back to trying to do all this stuff on my laptop. The reason why is:
+
+ - first, you have to get a Linux instance up and running on EC2 (Amazon's cloud), which is fine and easy
+ - then you have to log into through the terminal and over SSH, which is also fine and easy and also cool looking because you can pretend like you're Crash Override from the movie Hackers.
+ - anyway, now you need to install the nVidia GPU drivers and  ¯\_(ツ)_/¯ 
+ - and then you need to test them so  ¯\_(ツ)_/¯ 
+ - and now you need to make sure you're using Ubuntu because the easy Torch installer requires Ubuntu
+ - so you start again, this time with Ubuntu
+ - and then you install the nVidia GPU drivers again which means looking up a whole bunch of documentation
+ - oh wait you need to install the build tools
+ - and now you need to disable some modules that conflict with the GPU drivers
+ - and now you need to install Torch again
+ - wait, but that didn't work
+ - probably because of some other dependency
+
+See, if I'd managed to get this all working, at some point I would've just clicked a button in the management console and selected "make an image out of this" and I'd be able to link to that image and tell you all: hey, just stick some text in this file over here and then wait and then you'll get some dreamed text. But I couldn't, so you can't.
+
+Instead, you get this, which is a bunch of stuff that my laptop dreamed up:
+The internet of things that I think it's been a signal that I think I'm strugged in a corporation system in the first place. On the other hand, the day that I was at the end of a plane, and I don't spend me that a bit like a sort of second-order terms of a different connectivity to be sure, but when you have a feeling of a startup is a bit about the internet of things that are super excited about how much I said to be a company, and I'll just be a ballo serendipity of a company to the internet for the other day to be continuing to the opportunity in the internet, it's a serious about the world.
+which on first glance looks like exacrtly the kind of thing I'd write, which is a bit disturbing, because it's been generated by a 400 neuron 3-layer recursive net that taught itself English from scratch only from reading my newsletter and the thought that I could be replaced by it is frankly a little unsettling. Look, here's some more:
+ 
+The fact that I was thinking about this is the last ten years. If you're a lot more, but only because it doesn't matter that I’d eat, those ships or even holiday, and while someone does what I probably be somewhat concept of the world that we have the state of the state of a consumer physical program. But it's not like this is the product of the stages of focusing on an almost-criticalism in my hands because the work can be presented as interesting and solved with a project that *does* it matters to be accomplished and that most of the time again is you can look at the productivity game device has a platform and then all the stuff like cheaper who has the prompts that I liked when we were talking about when you want to know what they're doing a great as an author and then explicit and satisfying on their days in my head. I keep me to spend the last twenty years of the next thing on the internet. And it's not like that's a supply-chain it doesn't see something that can be more effice to across a bad way - and the internet could be replying to me that more complicated and products and services and making robots might fit in it and show differently, more consumer games and service in what they're doing. And then one of the first things on both shit’s along them in a bit of a master, intercont and one of the more powering and entertainment or attention. In a way, that solved a new game arda of a number of people at the moment, rapped minimum viable cars (and just make a different management" or even disappeared in which shows a new organial infrastructure that makes sense to rely on using a sort of steveorable to garger happening into a service that infrastructure to have tracking an agency, waiting to make sense of products and settings and then makes sense to left a bit shit. It turned out that the city is being spent to play a distributed tradition. 
+I may as well give up at this point.
+
+Anyway, there's a whole bunch of this stuff and I put a whole load more into a Twitter account called @r_danhon[0] that tweets out snippets of duly-dreamed text that you can follow, should you wish.
+
+[0] dan hon is dreaming (@r_danhon) | Twitter
+2.0 Just some notes
+
+Some things from my pile of notes to myself, and pile of notes from you:
+
+ - I bookmarked, and Deb Chachra sent me, Natalie Kane's must-read piece about "means-well" technology[0], which is a much better-written piece than I would've done about what happens when things are built and put into the world without considering their repercussions or actions more widely than in a narrow scope. "Means Well" is a polite name for this kind of stuff because I suspect if you've been on the receiving end of that type of well-intentioned-but-actually-shit, half-assed technology, then you're just going to get angry. 
+
+ - Also, Deb Chachra with a note about Sara M. Watson's article from 2014[1] which predates my reckon from last week about what happens when fitness trackers encounter someone who isn't. This ties in with the whole genre of means-well technology, that kind of ill-thought-through "yeah! crushed it!" that you receive when you hit a goal when really, the designers never really thought of or anticipated that a tracker might be used by someone who needs to adjust their activity downward. Or that maybe they just did too much. Have you seen an activity tracker say "Hey, looks like you're overdoing it a bit. That was great, but maybe take it a bit easier tomorrow?" No: they're all in the mode of increasing performance over time. There is no such thing as management. Of the steady state. 
+
+ - I've had Dan Hill's Dark Matter and Trojan Horses[2] on my Kindle for a while and still haven't gotten around to finishing it, but needless to say the bit that I'm currently on (after Hill reminded me that I should read it, which I should) was about how even just figuring out the problem and where the problem is and where we might do something about it in terms of the ever-complicated (and true) systems we're embedded in. Take the fitness tracker example: there's clearly no incentive for anyone to have designed a fitness tracker that doesn't push you to some sort of personal achievement nirvana, right? Despite lots of people wanting that? Where is that all coming from? 
+
+[0] "Means Well" Technology and the Internet of Good Intentions — Thingclash
+[1] Stepping Down: Rethinking the Fitness Tracker - The Atlantic
+[2] Dark Matter and Trojan Horses - Dan Hill
+
+--
+
+10:04pm and I'm teaching my network again.
+
+Best,
+
+Dan
+
+
+s2e19: Uncanny Valley; Network Du Jour; Streaking Considered Harmful
+
+by danhon
+0.0 Sitrep
+
+Somewhere, in the various kinds of memory that make up this laptop, there is a model of a neural network. That neural network has been trained to read about a hundred and fifty-odd episodes of my newsletter and is trying to teach itself a) how to write English, and b) how to write like me, and thus c) how to write a newsletter that looks like it was written by me. So far, it hasn't done very well:
+ 
+So the thing about part of this is a little bit of characters have a network that is a bit of life in the villera memory of the generation of something else. Don't look at a connection of the Valley syncate and it's going to take the time to be a problem with a financy. There are a whole bunch of edits of a money bothering what they do incredibly because it can imagine a little bit like Chinese Shoeldoo[c] - the Internet. So what stack me from some problems and the last ten year old Google and I think I might be clear to more so you can't just. Not here. Service is being that much shows something that start than on the internet and the internet's concernnation of the target place to make an organisation is that the real heading the real complex that's a problem that appropriate the algorithm.
+ 
+I have run into problem number one of machine learning which is this: you end up just having to tweak a bunch of variables and training the model over and over and over again until you end up with a good model. Which is what I'm doing right now, only it looks like I can't get OpenCL working quite right because  ¯\_(ツ)_/¯ so each training iteration is taking roughly 0.9 seconds and I'm running around 34,000 iterations. At this point, I'm seriously considering spinning up a GPU instance on AWS somewhere and doing the whole thing over in the cloud which is a bit more cyberpunk of me: instead of having a neural net learning to emulate me writing my newsletter in my own stream of consciousness typing away on my own laptop, it'll be doing it somewhere over in some server where I have no idea where it actually is. That, I suppose, is 2015. 
+
+1.0 Uncanny Valley
+
+First: of all the accidents involving Google's self-driving car, they were all caused either by a human taking over from the self-driving system, or from someone else driving into the self-driving car[0]. I wonder if there's a sort of uncanny valley of driving where, yes, the car's driving itself, but it's doing so in a manner that's unpredictable or downright strange to *all the other drivers out there* because it's driving by the book. In that: it's obeying the speed limit and it's turning into the right lane and it's keeping its distance and all of that stuff. In this case, a self-driving car wouldn't be acting in the same way as any other driver's mental model of another car on the road - because it's not a human that's driving it. 
+
+This feels a bit like a situation where the Turing Test for a self-driving car is a car that someone else thinks is being driven by a human, but more safely, instead of being driven by a regular human, but not safely. So, via Alexis Madrigal's newsletter, the amusing idea of giving computer vision systems Rorschach tests[1]. 
+
+[0] Google's self-driving car was involved in its first accident with injury after being rear-ended
+[1] Move over, Turing — Medium
+
+2.0 Network Du Jour
+
+When we invented switching exchanges suddenly everything became a switching exchange and the brain was a switching exchange. Then we invented computers and suddenly the brain became a computer with bits of Turing-style ticker-tape inside them. Now we have networks and graph theory everywhere, so now we're looking at our genome as a graph instead of... well, instead of whatever it was we were thinking it was before. Because, I assume, when all you have is a set of map/reduce operations efficiently working on traversing nodes, then everything looks like a nail in a network. 
+
+[0] Graph Genome Offers New Reference Map of Human Genes | MIT Technology Review
+
+3.0 Streaking Considered Harmful
+
+I got ill recently, the kind of ill that although not kill-you-dead serious did force me to take things easy for at least two weeks. The thing is, most - I won't say all - of the personal tracking devices, software and services that I was using at the time (and still am, I suppose) don't particularly do a good job of handling someone who was well, getting ill, and then having to rest for a bit. 
+
+For starters, it feels like the approach to behaviour modification in a lot of these services it a bit skin-deep. Lark, an app that stands out to me because of how well-written its conversational interface is, is one of the rare apps that I would say is reasonably kind to you and is wanting to take a long term view. In this case, the kind, long-term view is the one that says that it's OK to have an off-day because tomorrow is another chance to do something different. That doesn't stop Lark from recognising progress and building up a good habit when it sees one - if your activity profile is trending in the right direction for a few days, it will tell you. But it will also make a point of not resetting a streak (because it doesn't count them!) to zero just because you had an off day. 
+
+I guess the point is this: data is brutal and doesn't know that the universe is unkind, uncaring, and doesn't give a shit about you. You can be an amazing person and have hit your 12k steps per day goal for every single day for over a year - congratulations, you! - and then have it reset to zero due to something completely out of your control. But most software and services that we have right now aren't particularly a) empathetic to that happening, and b) sympathetic when that happens. They just reset you to zero. In which case if you want to get anywhere near your previous record, you kind of have to knuckle down. This just doesn't work for long-term behaviour change. It increases, every single day, the cost of failure - because it's as if you're climbing a staircase that is simultaneously getting narrower with every single upward step that you take. 
+
+So: I really don't like streaks. I really don't like systems that purport to be simple (ie: just set a goal to hit every day!) but don't take into account the fact that one day, your goal might be achievable and the next day it just might not be. Or that one day's goal might be 10,000 steps and the next day's goal might be 300 because hey, you just really, really, really needed to spend the day in bed. That's not kind. That's, well, just a bit dickish. 
+
+--
+
+Of course, this could be the output of the neural net right now and you wouldn't even know, would you.
+
+Look, a slug.
+
+Best,
+
+Dan
+ 
+ 
 From: danhon <dan@danhon.com>
 Subject: s2e18: Sequencing; Spectrum
 Date: August 13, 2015 at 10:05:43 PM CDT
